@@ -1,0 +1,21 @@
+# editor-specific files
+\#*
+.#*
+*~
+.*.swp
+
+# ELF files
+*.o
+*.a
+*.so
+*.out
+
+# python bytecode
+*.pyc
+*.pyo
+__pycache__
+*.pyd
+
+*.pdb
+*.dll
+*.exe
