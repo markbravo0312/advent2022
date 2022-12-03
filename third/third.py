@@ -32,3 +32,4 @@ if __name__ == '__main__':
 
     print(f"Solution 2: {sum([itemToPriority(item) for item in groupIdentifiers])}")
 
+#test commit
