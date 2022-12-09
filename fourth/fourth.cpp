@@ -3,6 +3,7 @@
 #include <iostream>
 #include <sstream>
 #include <utility>
+#include <tuple> //for gcc
 
 
 

@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <deque>
 using namespace std;
 
 
@@ -16,10 +17,13 @@ int main () {
 
 
     string line{};
+    int directory{0};
+    deque<char> current_directories{};
+    
 
 
     while (getline(input, line)) {
-
+        
     }
 
 
